@@ -28,3 +28,14 @@ I implemented the backpropagation algorithm to learn the parameters for the neur
 
 Backpropagation: nnCostFunction.m
 I implemented the backpropagation algorithm to compute the gradient for the neural network cost function.
+
+## Ex5:
+
+Regularized Linear Regression and Bias v.s. Variance:
+ex5.m: I implement regularized linear regression to predict the amount of water flowing out of a dam using the change of water level in a reservoir.
+
+Bias-variance:
+An important concept in machine learning is the bias-variance tradeoff. Models with high bias are not complex enough for the data and tend to underfit, while models with high variance overfit to the training data.I plot training and test errors on a learning curve to diagnose bias-variance problems.
+
+Polynomial regression:
+The problem with our linear model was that it was too simple for the data and resulted in underfitting (high bias). In this part of the exercise, I address this problem by adding more features.
