@@ -39,3 +39,7 @@ An important concept in machine learning is the bias-variance tradeoff. Models w
 
 Polynomial regression:
 The problem with our linear model was that it was too simple for the data and resulted in underfitting (high bias). In this part of the exercise, I address this problem by adding more features.
+
+## Ex6: 
+Support Vector Machines:
+ I used support vector machines (SVMs) to build a spam classifier for Emails. ex6.m is about the fundamental concepts in SVM and in ex6_spam I implemented the Spam Classifier.
