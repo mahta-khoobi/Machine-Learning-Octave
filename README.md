@@ -21,3 +21,10 @@ ex2 reg.m : implemented regularized logistic regression to predict whether micro
 ex3.m :  Used logistic regression and neural networks to recognize handwritten digits (from 0 to 9). 
 
 ex3_nn.m: Implemented a neural network to recognize handwritten digits 
+
+## Ex4:
+Neural Networks: ex4.m
+I implemented the backpropagation algorithm to learn the parameters for the neural network to predict handwritten digits with the learned parameters.
+
+Backpropagation: nnCostFunction.m
+I implemented the backpropagation algorithm to compute the gradient for the neural network cost function.
