@@ -41,3 +41,13 @@ The problem with our linear model was that it was too simple for the data and re
 ## Ex6: Support Vector Machines
 
  I used support vector machines (SVMs) to build a spam classifier for Emails. ex6.m is about the fundamental concepts in SVM and in ex6_spam I implemented the Spam Classifier.
+ 
+## Ex7: Unsupervised Learning: K-means Clustering and Principal Component Analysis
+
+ex7.m : Implemented the K-means clustering algorithm and apply it to compress an image. 
+ex7 pca.m: Used principal component analysis (PCA) to perform dimensionality reduction and the used it on a dataset of 5000 face image dataset.
+
+## Ex8: Anomaly Detection and Recommender Systems
+
+I implement the anomaly detection algorithm and apply it to detect failing servers on a network.  The features measure the throughput (mb/s) and latency (ms) of response of each server.
+In the second part, I use collaborative filtering to build a recommender system for movies.This dataset consists of ratings on a scale of 1 to 5. The dataset has nu = 943 users, and nm = 1682 movies. 
